@@ -52,7 +52,7 @@
     "identity-obj-proxy": "^3.0.0",
     "jest": "^20.0.4",
     "jest-enzyme": "^3.4.0",
-    "node-sass": "^4.5.3",
+    "node-sass": "^7.0.0",
     "react-addons-test-utils": "^15.6.0",
     "react-dnd-test-backend": "^2.5.4",
     "react-test-renderer": "^15.6.1",
